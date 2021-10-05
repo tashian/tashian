@@ -1,6 +1,6 @@
 "I'm in my head too much."
 
-It's something we've all said from time to time.
+It's something most of us nerds have said from time to time.
 
 As engineers, we are paid to be in our heads. We build beautiful conceptual gardens there. Gardens of abstraction and logic and order. Patterns and anti-patterns, hacks and arcana. Domain knowledge. A strong engineer must have a sharp mind.
 
