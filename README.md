@@ -1,3 +1,8 @@
+I work at [Smallstep](https://smallstep.com) helping to make modern PKI easy to understand and use.
+I also write about technology on [my website](https://tashian.com). Most recently I wrote [CLI Guidelines](https://clig.dev/), an [open-source guide](https://github.com/cli-guidelines/cli-guidelines) to help you write better command-line programs
+
+---
+
 As engineers, we are paid to be in our heads. We build beautiful conceptual gardens there. Gardens of abstraction and logic and order. Patterns and anti-patterns, hacks and arcana. Domain knowledge. A strong engineer must have a sharp mind.
 
 Yet we also are aware that life doesn't happen in our heads. We sometimes want a vacation from the cold vault of binary logic, the constant problem finding and problem solving, and all of the anxieties and neuroses that arise when our thoughts and ideas are all we have.
